@@ -1,0 +1,12 @@
+{
+  "name": "woocommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "docker compose build && docker compose up"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
